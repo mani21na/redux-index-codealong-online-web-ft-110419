@@ -4,7 +4,7 @@ import { connect } from 'react-redux';
 class TodosContainer extends Component {
   render() {
     return(
-      <div>{ props.text }</div>
+      <div></div>
     )
   }
 }
