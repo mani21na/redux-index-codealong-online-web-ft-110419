@@ -8,3 +8,5 @@ class TodosContainer extends Component {
     )
   }
 }
+
+export default connect()(TodosContainer);
